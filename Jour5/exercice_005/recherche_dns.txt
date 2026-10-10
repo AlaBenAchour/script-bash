@@ -1,0 +1,4 @@
+;; communications error to 172.16.173.241#53: connection refused
+;; communications error to 172.16.173.241#53: connection refused
+;; communications error to 172.16.173.241#53: connection refused
+212-129-42-16.rev.poneytelecom.eu.

@@ -1,0 +1,21 @@
+
+2026-10-09 12:32:06 - Recherche de l'IP de "www.google.com"...
+;; communications error to 172.16.173.241#53: connection refused
+;; communications error to 172.16.173.241#53: connection refused
+www.google.com has address 142.251.156.119
+www.google.com has address 142.251.155.119
+www.google.com has address 142.251.153.119
+www.google.com has address 142.251.157.119
+www.google.com has address 142.251.152.119
+www.google.com has address 142.251.150.119
+www.google.com has address 142.251.154.119
+www.google.com has address 142.251.151.119
+2026-10-09 12:32:07 - L'IP de "www.google.com" est 142.251.156.119.
+2026-10-09 12:32:07 - Test de PING vers 142.251.156.119...
+PING 142.251.156.119 (142.251.156.119) 56(84) bytes of data.
+64 bytes from 142.251.156.119: icmp_seq=1 ttl=114 time=1.50 ms
+
+--- 142.251.156.119 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.496/1.496/1.496/0.000 ms
+2026-10-09 12:32:07 - PING réussi !

@@ -1,0 +1,1 @@
+mkdir -p exercice_018 && apt list --upgradable 2>/dev/null | tail -n +2 | awk -F'/' '{print $1}' > upgradable.txt && sort upgradable.txt > upgradable_sorted.txt && wc -l < upgradable.txt > upgradable_count.txt && cp upgradable.txt exercice_018/upgradable.txt && cp upgradable_sorted.txt exercice_018/upgradable_sorted.txt && cp upgradable_count.txt exercice_018/upgradable_count.txt

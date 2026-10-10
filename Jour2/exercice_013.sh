@@ -1,0 +1,1 @@
+mkdir -p exercice_013/source exercice_013/destination && tar -czf exercice_013/destination/archive.tgz -C exercice_013 source && stat -c%s exercice_013/destination/archive.tgz > exercice_013/archive_size.txt

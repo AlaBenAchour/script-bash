@@ -1,0 +1,17 @@
+2026-10-08 09:22:32 - Debut de la configuration de Zsh
+2026-10-08 09:22:32 - Utlisateur cible : benach_a
+2026-10-08 09:22:32 - Fichier de log : setup_zsh.log
+2026-10-08 09:22:32 - Vérification de la commande apt
+2026-10-08 09:22:32 - La commande apt est disponible
+2026-10-08 09:22:32 - Verifier si Zsh est installé
+2026-10-08 09:22:32 - Zsh n'est pas installé. Installation de Zsh...
+2026-10-08 09:22:43 - Zsh a été installé avec succès.
+2026-10-08 09:22:43 - Vérification du chemin de Zsh : /usr/bin/zsh
+2026-10-08 09:22:43 - Vérification de la liste des shells autorisés.
+2026-10-08 09:22:43 - Zsh figure dans la liste des shells autorisés.
+2026-10-08 09:22:43 - Configuration du shell par défaut pour benach_a.
+2026-10-08 09:22:43 - Zsh est déjà le shell par défaut de benach_a.
+2026-10-08 09:22:43 - Vérification de la configuration finale.
+2026-10-08 09:22:43 - SUCCÈS: Zsh est le shell par défaut de benach_a.
+2026-10-08 09:22:43 - Shell configuré : /usr/bin/zsh
+2026-10-08 09:22:43 - Fin du script : SUCCÈS

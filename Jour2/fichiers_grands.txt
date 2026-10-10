@@ -1,0 +1,16 @@
+./fichiers_ex17/big/sad/soft/fire/hard/clean.txt
+./fichiers_ex17/big/sad/soft/fire/hard/small.txt
+./fichiers_ex17/big/sad/soft/fire/hard/water.txt
+./fichiers_ex17/blue/clean/old/hard/slow/car.txt
+./fichiers_ex17/blue/clean/old/hard/slow/clean.txt
+./fichiers_ex17/blue/tree/spoon/door/dirty/car.txt
+./fichiers_ex17/clean/mountain/clean.txt
+./fichiers_ex17/clean/mountain/fire.txt
+./fichiers_ex17/dog/water/soft.txt
+./fichiers_ex17/heavy/weak/door/book/dirty.txt
+./fichiers_ex17/house/air/pen/door.txt
+./fichiers_ex17/mountain/flower/cold/pen/book/heavy.txt
+./fichiers_ex17/mountain/flower/cold/pen/book/hot.txt
+./fichiers_ex17/mountain/flower/cold/pen/book/red.txt
+./fichiers_ex17/mountain/flower/cold/pen/book/shallow.txt
+./fichiers_ex17/pen/strong/long/happy.txt

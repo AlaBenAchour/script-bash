@@ -1,0 +1,5 @@
+bash : INSTALLÉ
+libc6 : INSTALLÉ
+vim : INSTALLÉ
+firefox : NON INSTALLÉ
+paquet_inexistant : NON INSTALLÉ

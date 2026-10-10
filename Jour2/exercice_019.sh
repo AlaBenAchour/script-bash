@@ -1,0 +1,1 @@
+mkdir -p exercice_019 && ps -u "$USER" -a > /tmp/processes.txt && tail -n +2 /tmp/processes.txt > exercice_019/process_list.txt && awk 'NR==1 {for(i=1;i<=NF;i++) if($i=="COMMAND") c=i; next} {print $c}' /tmp/processes.txt | sort -u > exercice_019/process_names.txt && wc -l < exercice_019/process_names.txt > exercice_019/process_count.txt

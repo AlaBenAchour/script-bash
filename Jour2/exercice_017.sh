@@ -1,0 +1,1 @@
+mkdir -p fichiers_ex17 && tar -xzf ./fichiers_ex17.tar.gz -C . && find ./fichiers_ex17 -type f -size -100k | sort > fichiers_petits.txt && find ./fichiers_ex17 -type f -size +99k | sort > fichiers_grands.txt && cp fichiers_petits.txt fichiers_ex17/fichiers_petits.txt && cp fichiers_grands.txt fichiers_ex17/fichiers_grands.txt

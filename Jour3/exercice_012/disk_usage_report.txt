@@ -1,0 +1,9 @@
+12K	/var/log/openvswitch
+4.0K	/var/log/private
+4.0K	/var/log/runit/ssh
+8.0K	/var/log/runit
+148K	/var/log/apt
+17M	/var/log/journal/c86ac58df4f5e09489c6d6fbfc8d1397
+17M	/var/log/journal
+20K	/var/log/unattended-upgrades
+17M	/var/log

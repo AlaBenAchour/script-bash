@@ -1,0 +1,3 @@
+Found: exercice_006/file1
+Found: exercice_006/find.txt
+Found: exercice_006/file2

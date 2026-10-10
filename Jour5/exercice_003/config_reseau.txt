@@ -1,0 +1,6 @@
+Interfaces :
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             172.16.249.217/24 fe80::be24:11ff:fe79:acff/64 
+Routage :
+default via 172.16.248.1 dev eth0 proto static onlink 
+172.16.249.0/24 dev eth0 proto kernel scope link src 172.16.249.217 

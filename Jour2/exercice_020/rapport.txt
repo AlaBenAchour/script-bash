@@ -1,0 +1,8 @@
+Date: Tue Oct  6 18:16:22 UTC 2026
+Hostname: localhost
+Top 5 paquets les plus lourds :
+1. linux-image-6.1.0-53-amd64 - 400189
+2. linux-image-6.1.0-23-amd64 - 398628
+3. git - 44890
+4. vim-runtime - 36406
+5. libicu72 - 36170

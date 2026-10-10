@@ -1,0 +1,5 @@
+Alice habite à Paris
+Bob habite à Lyon
+Charlie habite à Marseille
+David habite à Toulouse
+Eve habite à Nice

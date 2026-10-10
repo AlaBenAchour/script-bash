@@ -1,0 +1,43 @@
+2026-10-08 11:29:30 - Début de l'installation de Oh My Zsh.
+2026-10-08 11:29:30 - Oh My Zsh n'est pas installé.
+2026-10-08 11:29:30 - Lancement de l'installation en mode unattended.
+Cloning Oh My Zsh...
+From https://github.com/ohmyzsh/ohmyzsh
+ * [new branch]      add-docker-compose-config -> origin/add-docker-compose-config
+ * [new branch]      copilot/docker-plugin-load-fix -> origin/copilot/docker-plugin-load-fix
+ * [new branch]      copilot/fix-per-directory-history-regression -> origin/copilot/fix-per-directory-history-regression
+ * [new branch]      feat/opencode-plugin -> origin/feat/opencode-plugin
+ * [new branch]      feat/theme-browser-local -> origin/feat/theme-browser-local
+ * [new branch]      fix-gh-completion-cache-on-failure -> origin/fix-gh-completion-cache-on-failure
+ * [new branch]      fix/installer-backup-history -> origin/fix/installer-backup-history
+ * [new branch]      master               -> origin/master
+ * [new branch]      perf/git-plugin-cache-git-version -> origin/perf/git-plugin-cache-git-version
+ * [new branch]      perf/lib-autoload-cli-diagnostics -> origin/perf/lib-autoload-cli-diagnostics
+ * [new branch]      perf/lib-lazy-vcs-info-patch -> origin/perf/lib-lazy-vcs-info-patch
+ * [new branch]      perf/termsupport-memoize-cwd -> origin/perf/termsupport-memoize-cwd
+ * [new branch]      task/rr-14045-omz-plugin-create -> origin/task/rr-14045-omz-plugin-create
+Already on 'master'
+branch 'master' set up to track 'origin/master'.
+/home/benach_a/Jour4/exercice_002.sh
+
+Looking for an existing zsh config...
+Using the Oh My Zsh template file and adding it to /home/benach_a/.zshrc.
+
+         __                                     __   
+  ____  / /_     ____ ___  __  __   ____  _____/ /_  
+ / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \ 
+/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / / 
+\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/  
+                        /____/                       ....is now installed!
+
+
+Before you scream Oh My Zsh! look over the `.zshrc` file to select plugins, themes, and options.
+
+• Follow along on X (https://x.com/ohmyzsh) or Bluesky (https://bsky.app/profile/ohmyz.sh)
+• Questions or ideas? Join the community on https://discord.gg/ohmyzsh
+• Help support the project: sponsor us on https://opencollective.com/ohmyzsh,
+  or grab stickers, shirts, and swag from https://commitgoods.com/ohmyzsh
+
+Run zsh to try it out.
+2026-10-08 11:29:32 - Installation de Oh My Zsh terminée avec succès.
+2026-10-08 11:29:32 - Fin du script.

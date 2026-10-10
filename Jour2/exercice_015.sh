@@ -1,0 +1,1 @@
+mkdir exercice_015 && cat /var/log/syslog | grep -i 'error' | tr '[:lower:]' '[:upper:]' > exercice_015/error_summary.txt && cat exercice_015/error_summary.txt | awk '{$1=$1; print}' | sort | uniq | wc -l > exercice_015/error_type_count.txt

@@ -1,0 +1,5 @@
+-rw------- 1 benach_a benach_a 20 Mar 11  2025 exercice_012/fichiers_ex12/file2.txt
+-rw------- 1 benach_a benach_a 20 Mar 11  2025 exercice_012/fichiers_ex12/file4.txt
+-rw------- 1 benach_a benach_a 20 Mar 11  2025 exercice_012/fichiers_ex12/file3.txt
+-rw------- 1 benach_a benach_a 20 Mar 11  2025 exercice_012/fichiers_ex12/file1.txt
+-rw------- 1 benach_a benach_a 20 Mar 11  2025 exercice_012/fichiers_ex12/file5.txt

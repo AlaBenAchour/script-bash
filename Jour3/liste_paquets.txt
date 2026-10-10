@@ -1,0 +1,5 @@
+bash
+libc6
+vim
+firefox
+paquet_inexistant
